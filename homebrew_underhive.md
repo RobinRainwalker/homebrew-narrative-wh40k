@@ -24,7 +24,7 @@ _Daring Leap_: In the Movement phase, when making a normal move with an INFANTRY
 
 
 # Resources
-_Reputation_: based on number of Territories claimed and recent kills
+_Reputation_: [CURRENTLY NOT IN USE] based on number of Territories claimed and recent kills
     * At the end of each Turn, gain 1 Reputation for each Territory under your Army's control
     * At the end of each Turn, gain 1 Reputation for every 15 unit destroyed tallies amongst all units you control
 
