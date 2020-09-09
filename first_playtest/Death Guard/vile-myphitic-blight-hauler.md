@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Vile Myphitic Blight Hauler
 
 # Name: 
 # Crusade Points:

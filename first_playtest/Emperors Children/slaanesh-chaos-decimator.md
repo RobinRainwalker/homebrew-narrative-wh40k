@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Slaanesh Chaos Decimator
 
 # Name: 
 # Crusade Points:

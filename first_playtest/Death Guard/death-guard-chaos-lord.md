@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Death Guard Chaos Lord
 
 # Name: 
 # Crusade Points:

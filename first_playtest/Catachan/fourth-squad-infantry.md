@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Fourth Squad Infantry
 
 # Name: 
 # Crusade Points:

@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Putrid Myphitic Blight Hauler
 
 # Name: 
 # Crusade Points:
@@ -25,3 +25,4 @@
 
 # Battle Honours: 
 # Battle Scars:
+

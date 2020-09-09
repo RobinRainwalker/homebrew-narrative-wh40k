@@ -1,22 +1,27 @@
 # Territories: 
-Corpse Farm
-Narco Den
-Generatorium
-Slums
+Corpse Farm: 10 coin: 85 for Relic
+Narco Den: 6d6 coin
+Generatorium: 0 coin: 60 coin for Specialist Reinforcements
+Slums: 10 coin: for Warlord Trait
 
 # Coin: 60
 
-# Requisition Points: 3
+# Crusade Points: 3
+
+# Requisition Points: 0
+3 Increase Supply
 
 # Strategy Points: 0
 
 # Reputation: 0
 
 # Order of Battle:
+[[Dark Apostle]]
 [[Khorne Chaos Lord]]
 [[First Khorne Bezerkers]]
 [[Second Khorne Bezerkers]]
 [[Third Khorne Bezerkers]]
+[[Fourth Khorne Bezerkers]]
 [[Helbrute]]
 
 # Record

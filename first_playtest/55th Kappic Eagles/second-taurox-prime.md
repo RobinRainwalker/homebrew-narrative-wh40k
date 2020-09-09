@@ -1,26 +1,22 @@
-# 55th Astropath
+# Second Taurox Prime
 
-# Crusade Cards Example
-
-# Name: 
-# Role: Elite
-# Keywords: Psyker, Infantry, Character
-# Equipment: 
-# Psychic Power: Psychic Barrier
+# Name: Second Taurox Prime
+# Role: Transport
+# Keywords: Vehicle
+# Equipment: Taurox Gatling Cannon, Two Autocannons
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 
 # Battles Survived: 0
-# Experience: 1
+# Experience: 
 # Marked for Greatness:
 # Enemy Units Destroyed: [Total]:0 
 # Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0 
-# Enemy Units Destroyed with Melee Weapons: [Total]: 1
+# Enemy Units Destroyed with Ranged Weapons: [Total]:0
+# Enemy Units Destroyed with Melee Weapons: [Total]: 0
 # Units Killed: 
-    * VS Thousand Sons: 2nd 1kSons
 # Agendas Achieved:
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []

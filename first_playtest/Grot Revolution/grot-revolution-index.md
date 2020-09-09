@@ -1,12 +1,15 @@
 # Territories: 
-Slag Furnace
-Gambling Den
-Synth Still
-Abandoned Piping
+Slag Furnace: 10 coin: 60 for Rearm and Resupply
+Gambling Den: 6d6 coin
+Synth Still: 10 coin: 80 for Fresh Recruit
+Abandoned Piping: 10 coin
 
 # Coin: 68
 
-# Requisition Points: 2
+# Crusade Points: 3
+
+# Requisition Points: 0
+3 Increase Supply: 40PL or 800 points
 
 # Strategy Points: 0
 

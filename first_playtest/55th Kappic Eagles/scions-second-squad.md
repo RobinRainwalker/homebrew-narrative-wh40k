@@ -1,4 +1,5 @@
 # Scions Second Squad
+# Crusade Points: 1
 
 # Name: 
 # Role: Troop
@@ -13,10 +14,10 @@
 # Battles Survived: 0
 # Experience: 6
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0  
-# Enemy Units Destroyed with Psychic Powers: [Total]:0
-# Enemy Units Destroyed with Ranged Weapons: [Total]:3
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0
+# Enemy Units Destroyed:  
+# Enemy Units Destroyed with Psychic Powers:  
+# Enemy Units Destroyed with Ranged Weapons: 3 
+# Enemy Units Destroyed with Melee Weapons:  
 # Units Killed: 
     * VS Thousand Sons: 1st 1kSons Squad, Exalted Sorcerer, Exalted Sorcerer Commander
 # Agendas Achieved:

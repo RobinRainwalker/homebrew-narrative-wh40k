@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# 2nd Wave Tyranid Warriors
 
 # Name: 
 # Crusade Points:

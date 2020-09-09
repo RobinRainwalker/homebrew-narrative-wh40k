@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Center Troupe
 
 # Name: 
 # Crusade Points:
@@ -25,3 +25,4 @@
 
 # Battle Honours: 
 # Battle Scars:
+

@@ -1,4 +1,4 @@
-# Crusade Cards Example
+# Zoanthropes
 
 # Name: 
 # Crusade Points:

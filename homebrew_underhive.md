@@ -69,7 +69,7 @@ _Strategy Points_: Strategy points are spent only on Territories you control
 # 1) Settlement, Slums, or Sprawl
     * Packed
     * Gain 10 Coin
-    * May forfeit gaining Coin this round, and instead spend 80 Coin to gain the Warlord Trait Requisition
+    * May spend 80 Coin to gain the Warlord Trait Requisition
 # 2) Workshop, Generatorium, or Mechanics Digs
     * Dense
     * May pay 60 Coin to gain the Specialist Reinforcements Requisition

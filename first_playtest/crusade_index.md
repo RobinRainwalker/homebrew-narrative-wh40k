@@ -27,7 +27,19 @@ Homebrew Underhive(?) - gotta simplify the rules - territory provides fortificat
 # World Eaters => 1F
 [[world-eaters-index]]
 
-
+Make maps: 
+6B: Slum (already created)
+5G: Fighting Pit 
+7D: Junkyard
+2G: Temple
+4B: Mech Digs
+2B: Settlement (already created?)
+4A: Collapsed Dome
+2F: Slums 
+3D: Needle Ways
+6E: Red District
+6D: Drug Den
+1F: Gambling Den
 
 To Add to Crusade Cards:
 

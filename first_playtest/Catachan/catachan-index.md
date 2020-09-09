@@ -1,11 +1,14 @@
 # Territories: 
-Drinking Hole
-Red District
-Drug Den
+Drinking Hole: 10 coin: 80 for Warlord Trait
+Red District: 30 coin
+Drug Den 0 coin: 80 for Battle Scar removal
 
 # Coin: 74
 
-# Requisition Points: 3
+# Crusade Points: 1
+3 Increase Supply: 40PL or 800 points
+
+# Requisition Points: 0
 
 # Strategy Points: 0
 
@@ -17,6 +20,8 @@ Drug Den
 [[First Squad Infantry]]
 [[Second Squad Infantry]]
 [[Third Squad Infantry]]
+[[Fourth Squad Infantry]]
+[[Hellhound]]
 [[Astropath]]
 [[Crusaders]]
 [[Ministorum Priest]]
@@ -31,6 +36,8 @@ Unclaimed Territory Expansion
 [First Squad Infantry]: first-squad-infantry "First Squad Infantry"
 [Second Squad Infantry]: second-squad-infantry "Second Squad Infantry"
 [Third Squad Infantry]: third-squad-infantry "Third Squad Infantry"
+[Fourth Squad Infantry]: fourth-squad-infantry "Fourth Squad Infantry"
+[Hellhound]: hellhound "Hellhound"
 [Astropath]: astropath "Astropath"
 [Crusaders]: crusaders "Crusaders"
 [Ministorum Priest]: ministorum-priest "Ministorum Priest"

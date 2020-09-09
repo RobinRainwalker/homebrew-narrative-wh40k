@@ -1,7 +1,7 @@
 # Sorcerer
-Sorcerer Destroy Shrikes and Prime
 
 # Name: 
+# Crusade Points: 1
 # Role: HQ
 # Keywords: Character, Psyker, Infantry
 # Equipment:

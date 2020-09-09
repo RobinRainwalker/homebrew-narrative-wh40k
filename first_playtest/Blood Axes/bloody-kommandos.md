@@ -1,6 +1,7 @@
 # Bloody Kommandos
 
 # Name: 
+# Crusade Points: 1
 # Role: Elite
 # Keywords: Infantry
 # Equipment:

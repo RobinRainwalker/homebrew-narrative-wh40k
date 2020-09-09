@@ -11,12 +11,12 @@
 
 # Battles Played: 1
 # Battles Survived: 0
-# Experience:
+# Experience: 1
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0 
-# Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:1 
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0
+# Enemy Units Destroyed: 0 
+# Enemy Units Destroyed with Psychic Powers:0 
+# Enemy Units Destroyed with Ranged Weapons: 1 
+# Enemy Units Destroyed with Melee Weapons: 0
 # Units Killed: 
     * VS Jormungander: Tyranid Warriors
 # Agendas Achieved:
