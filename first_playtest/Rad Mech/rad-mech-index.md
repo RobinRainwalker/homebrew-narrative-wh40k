@@ -2,6 +2,7 @@
 Tech Bazaar: 30 coin
 Drinking Hole: 10 coin: 80 for Fresh Recruit
 Smelting Works: 10 coin: 60 for Rearm and Resupply
+Needle Ways: 
 
 # Coin: 80
 

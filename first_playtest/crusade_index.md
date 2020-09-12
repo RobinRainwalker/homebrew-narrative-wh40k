@@ -4,42 +4,30 @@ Homebrew Underhive(?) - gotta simplify the rules - territory provides fortificat
 # Armies:
 # 55th Kappic Eagles => 6B
 [[55th-kappic-index]]
-# Blood Axes => 5G
+# Blood Axes => Won 5G vs Space Wolves
 [[blood-axes-index]]
 # Catachan => 7D
 [[catachan-index]]
-# Death Guard => 2G
+# Death Guard => Won 2G vs Jormangander
 [[death-guard-index]]
 # Emperors Children => 4B
 [[emperors-children-index]]
-# Grot Revolution => 2B
+# Grot Revolution => Won 2B vs Emperors Children
 [[grot-revolution-index]]
 # Harlequins => 4A
 [[harlequins-index]]
-# Jormangander Splinter Fleet => 2F
+# Jormangander Splinter Fleet => Lost attacking 2F vs World Eaters
 [[jormungander-index]]
-# Rad Mech => 3D
+# Rad Mech => Unclaimed Territory Expansion to 3D (+1 RP)
 [[rad-mech-index]]
-# Space Wolves => 6E
+# Space Wolves => Lost attacking 6E vs Catachan 
 [[space-wolves-index]]
 # Thousand Sons => 6D
 [[thousand-sons-index]]
-# World Eaters => 1F
+# World Eaters => Won 1F vs Jormangander Fleet
 [[world-eaters-index]]
 
-Make maps: 
-6B: Slum (already created)
-5G: Fighting Pit 
-7D: Junkyard
-2G: Temple
-4B: Mech Digs
-2B: Settlement (already created?)
-4A: Collapsed Dome
-2F: Slums 
-3D: Needle Ways
-6E: Red District
-6D: Drug Den
-1F: Gambling Den
+
 
 To Add to Crusade Cards:
 

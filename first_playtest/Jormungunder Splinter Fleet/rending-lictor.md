@@ -1,4 +1,4 @@
-# Thornbacks
+# Rending Lictor
 
 # Name: 
 # Crusade Points:

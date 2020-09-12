@@ -1,4 +1,4 @@
-# 2nd Wave Tyranid Warriors
+# Death Lictor
 
 # Name: 
 # Crusade Points:
@@ -25,3 +25,4 @@
 
 # Battle Honours: 
 # Battle Scars:
+
