@@ -3,24 +3,27 @@
 # Name: 
 # Role: HQ
 # Keywords: Infantry, Character, Psyker
-# Equipment:
-# Psychic Power:
+# Equipment: Force Stave, Plasma Pistol, Power Sword
+# Psychic Power: Infernal Gaze, Weaver of Fates, Warptime, Smite
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 2
+# Battles Played: 4
 # Battles Survived: 0
-# Experience: 2
+# Experience: 6
 # Marked for Greatness:
-# Enemy Units Destroyed: 0  
-# Enemy Units Destroyed with Psychic Powers: 0 
-# Enemy Units Destroyed with Ranged Weapons: 0 
-# Enemy Units Destroyed with Melee Weapons: 0
+# Enemy Units Destroyed: 1
+  * Destroyed with Psychic Powers: 1 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
+    * VS Catachan: Warlord Commander, 
 # Agendas Achieved:
+    * VS Catachan: Assassinate: Warlord Commander
 
-# Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
+# Rank: Battle Ready [] Blooded [x] Battle-Hardened [] Heroic [] Legendary []
 
 # Battle Honours: 
+    * Master of Lore: Knows one additional psychic power (Warptime)
 # Battle Scars:

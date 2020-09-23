@@ -3,20 +3,19 @@
 # Name: 
 # Role: Troops
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Boltgun, Plague Knife, Plague Grenades
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 2
 # Battles Survived: 1
-# Experience: 1
+# Experience: 2
 # Marked for Greatness:
-# Enemy Units Destroyed: 0 
-# Enemy Units Destroyed with Psychic Powers: 0 
-# Enemy Units Destroyed with Ranged Weapons: 0 
-# Enemy Units Destroyed with Melee Weapons: 0
+# Enemy Units Destroyed: 0  
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
 # Agendas Achieved:
 

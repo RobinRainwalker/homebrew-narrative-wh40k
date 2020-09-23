@@ -3,13 +3,13 @@ Slag Furnace: 10 coin: 60 for Rearm and Resupply
 Gambling Den: 6d6 coin
 Synth Still: 10 coin: 80 for Fresh Recruit
 Abandoned Piping: 10 coin
-Settlement: 
+Settlement: 10 coin: 80 for Warlord Trait
 
-# Coin: 68
+# Coin: 128
 
 # Crusade Points: 3
 
-# Requisition Points: 0
+# Requisition Points: 2
 3 Increase Supply: 40PL or 800 points
 
 # Strategy Points: 0
@@ -20,10 +20,11 @@ Settlement:
 [[Big Mek KFF]]
 [[Gretchin]]
 [[Grots]]
-[[Grotchin]]
 [[Grot Mega Tank]]
+    * Improved Shielding: Add 1 to saving throws made vs attacks with AP 0 or -1
 [[Grot Tanks]]
 [[Killa Kans]]
+    * Armourbane: Re-roll wound rolls of 1 vs Vehicles or Monsters
 [[Mek Guns]]
 
 # Record:
@@ -34,7 +35,6 @@ Won Round 2 Conquered 3A From Emperors Children
 [Big Mek KFF]: big-mek-kff "Big Mek KFF"
 [Gretchin]: gretchin "Gretchin"
 [Grots]: grots "Grots"
-[Grotchin]: grotchin "Grotchin"
 [Grot Mega Tank]: grot-mega-tank "Grot Mega Tank"
 [Grot Tanks]: grot-tanks "Grot Tanks"
 [Killa Kans]: killa-kans "Killa Kans"

@@ -1,13 +1,19 @@
 # Territories: 
-Workshop
-Shrine
-Junkyard
+Workshop: 0 coin: 60 for Specialist Reinforcements
+Shrine: 20 coin 
+Junkyard: 10+3d6 coin
+Drug Den: 0 coin: 80 to remove a Battle Scar
 
 # Crusade Points: 3
+1 Exalted Sorcerer
+2 First Rubric Marines
+2 Second Rubric Marines 
+1 Third Rubric Marines 
+1 Scarab Occult Terminators
 
-# Coin: 40
+# Coin: 77
 
-# Requisition Points: 0
+# Requisition Points: 2
 3 Increase Supply
 
 # Strategy Points: 0
@@ -17,10 +23,17 @@ Junkyard
 # Order of Battle:
 [[Exalted Sorcerer Warlord]]
 [[Exalted Sorcerer]]
+    * Master of Lore: Knows one additional psychic power (Warptime)
 [[First Rubric Marines]]
+    * Grizzled: Roll one D6 each time a model in this unit would lose a wound. On a 6 they do not lose that wound. 
+    * Master of Lore: Knows one additional psychic power (Weaver of Fates)
 [[Second Rubric Marines]]
+    * Battle Tested: This unit gains Objective Secured ability, and can make attacks with ranged weapons when performing an action. Combat Attrition tests are automatically passed while within 3" of an Objective Marker
+    * Psychic Might: Can cast one additional psychic power per turn
 [[Third Rubric Marines]]
+    * Veteran Warriors: Re-roll hit rolls of 1 when resolving attacks made by this model
 [[Scarab Occult Terminator]]
+    * Psychic Might: Can cast 1 additional psychic power per turn
 
 # Record
 Won Round 2 Conquered 6B From 55th Kappic

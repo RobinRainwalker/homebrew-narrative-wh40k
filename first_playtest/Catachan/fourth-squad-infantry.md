@@ -1,18 +1,17 @@
 # Fourth Squad Infantry
 
 # Name: 
-# Crusade Points:
-# Role:
-# Keywords:
-# Equipment:
-# Psychic Power:
+# Crusade Points: 0 
+# Role: Troop
+# Keywords: Infantry 
+# Equipment: Lasgun, Plasma Gun, Laspistol, Power Axe
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 0
+# Battles Played: 3
 # Battles Survived: 0
-# Experience:
+# Experience: 3
 # Marked for Greatness:
 # Enemy Units Destroyed: 0  
   * Destroyed with Psychic Powers: 0 

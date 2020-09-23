@@ -1,13 +1,17 @@
 # Territories: 
-Mausoleum
-Temple
-Gambling Den
+Mausoleum: 10 coin: 85 for Relic.
 
-# Coin: 60
 
-# Crusade Points: 3
+# Coin: 70
 
-# Requisition Points: 
+# Crusade Points: 8
+1 Hormagaunts
+1 Death Lictor
+1 Rending Lictor 
+1 Biovores
+1 Zoanthropes
+
+# Requisition Points: 3
 3 Increase Supply: 40PL or 800 points
 
 # Strategy Points: 0
@@ -15,14 +19,21 @@ Gambling Den
 # Reputation: 0
 
 # Order of Battle:
-[[Tyranid Prime]]
-[[Hormagaunts]]
-[[Tyranid Warriors]]
-[[Death Lictor]]
-[[Rending Lictor]]
-[[Zoanthropes]]
-[[Biovores]]
-
+[[Tyranid Prime]] ||
+[[Hormagaunts]] |||
+    * Battle Tested: This unit has the Objective Secured ability and can make attacks with ranged weapons while performing an Action without that action failing. Combat Attrition tests taken for this unit are automatically passed while it is within range of an objective marker
+[[Tyranid Warriors]] || 
+[[2nd Tyranid Warriors]]
+[[Death Lictor]] ||
+  * Fleet of Foot: Add 1" to this unit's Move characteristic. In addition, add 1 to Advance and Charge rolls made for this unit
+[[Rending Lictor]] ||
+  * Rending Claws upgraded: 
+    * Razor Edged: Improve the weapon's AP by 1 
+    * Fleshbane: Add 1 to the Damage characteristic
+[[Zoanthropes]] ||
+      * Psychic Might: Cast one additional psychic power per turn
+[[Biovores]] ||
+  * Headhunters: Add 1 to hit rolls and wound rolls made when resolving attacks with models in this unit that target enemy Character units
 
 
 # Record
@@ -32,6 +43,7 @@ Lost Attack Round 2 VS Death Guard
 [Tyranid Prime]: tyranid-prime "Tyranid Prime"
 [Hormagaunts]: hormagaunts "Hormagaunts"
 [Tyranid Warriors]: tyranid-warriors "Tyranid Warriors"
+[2nd Tyranid Warriors]: 2nd-tyranid-warriors "2nd Tyranid Warriors"
 [Death Lictor]: death-lictor "Death Lictor"
 [Rending Lictor]: rending-lictor "Rending Lictor"
 [Zoanthropes]: zoanthropes "Zoanthropes"

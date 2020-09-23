@@ -1,22 +1,21 @@
 # Bloodiest Kommandos
 
-# Name: 
+# Name: Bloodiest Kommandos
 # Role: Elite
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Power Klaw, Slugga, Choppa, Stikkbombs, Tankbusta Bomb
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 2
-# Battles Survived: 1
-# Experience: 4
+# Battles Played: 3
+# Battles Survived: 2
+# Experience: 5
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:2  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0 
-# Enemy Units Destroyed with Melee Weapons: [Total]: 2 
+# Enemy Units Destroyed: 2
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 2
 # Units Killed: 
     * VS Catachan: 3rd Infantry, Commander
 # Agendas Achieved:

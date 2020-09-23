@@ -2,17 +2,16 @@
 
 # Name: 
 # Crusade Points:
-# Role:
-# Keywords:
-# Equipment:
-# Psychic Power:
+# Role: HQ
+# Keywords: Character, Infantry
+# Equipment: Laspistol, Omnissian Axe, Servo-arm
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
 # Battles Played: 0
 # Battles Survived: 0
-# Experience:
+# Experience: 1
 # Marked for Greatness:
 # Enemy Units Destroyed: 0  
   * Destroyed with Psychic Powers: 0 

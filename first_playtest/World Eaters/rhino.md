@@ -1,20 +1,20 @@
-# Grotchin
+# Rhino
 
 # Name: 
 # Crusade Points:
-# Role:
-# Keywords:
-# Equipment:
+# Role: Transport
+# Keywords: Vehicle
+# Equipment: Storm Bolter
 # Psychic Power:
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 0
+# Battles Played: 2
 # Battles Survived: 0
-# Experience:
+# Experience: 2
 # Marked for Greatness:
-# Enemy Units Destroyed: 0  
+# Enemy Units Destroyed: 0
   * Destroyed with Psychic Powers: 0 
   * Destroyed with Ranged Weapons: 0 
   * Destroyed with Melee Weapons: 0
@@ -25,4 +25,3 @@
 
 # Battle Honours: 
 # Battle Scars:
-

@@ -1,23 +1,23 @@
 # Bloodier Kommandos
 
-# Name: 
+# Name: Bloodier Kommandos
 # Role: Elite
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Power Klaw, Slugga, Choppa, Stikkbombs, Tankbusta Bomb
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 2
-# Battles Survived: 0
-# Experience: 2
-# Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Battles Played: 3
+# Battles Survived: 1
+# Experience: 3
+# Marked for Greatness: 
+# Enemy Units Destroyed: 2 
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 2
 # Units Killed: 
+    * VS Space Wolves: Assault Intercessors, Wulfen
 # Agendas Achieved:
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []

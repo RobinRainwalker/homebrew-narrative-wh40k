@@ -1,29 +1,28 @@
-# Center Troupe
+# Dark Apostle
 
 # Name: 
 # Crusade Points:
-# Role: Troop
+# Role: HQ
 # Keywords: Infantry
-# Equipment: Fusion Pistol, Harlequins Caress
+# Equipment: Accursed Crozius 
+# Prayers: Dark Zealotry, Wrathful Entreaty
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
 # Battles Played: 2
 # Battles Survived: 1
-# Experience: 2
-# Marked for Greatness:
-# Enemy Units Destroyed: 1  
+# Experience: 5
+# Marked for Greatness: 1
+# Enemy Units Destroyed: 2
   * Destroyed with Psychic Powers: 0 
   * Destroyed with Ranged Weapons: 0 
-  * Destroyed with Melee Weapons: 1
+  * Destroyed with Melee Weapons: 2
 # Units Killed: 
-  * VS 55th Kappic: 1st Taurox Prime
+    * VS Jormungander: Death Lictor, Rending Lictor
 # Agendas Achieved:
-  * VS 55th Kappic: Priority Target: 1st Taurox Prime
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
 
 # Battle Honours: 
 # Battle Scars:
-

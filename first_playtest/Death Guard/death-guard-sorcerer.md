@@ -4,20 +4,20 @@
 # Crusade Points: 1
 # Role: HQ
 # Keywords: Character, Psyker, Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Combi-plasma, Force Sword, Frag & Krak grenades
+# Psychic Power: Smite, Blades of Putrefaction, Putrescant Vitality
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 2
 # Battles Survived: 1
-# Experience: 8 
+# Experience: 9
 # Marked for Greatness: 1
-# Enemy Units Destroyed: [Total]: 2
-# Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0 
-# Enemy Units Destroyed with Melee Weapons: [Total]: 2
+# Enemy Units Destroyed: 2
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 2
 # Units Killed: 
     * VS Jormungander:
       * Tyranid Shrikes

@@ -4,7 +4,7 @@ Gain +1 extra Requisition Point
 EG: Priority Target (failed)
 GR: Slay the King
 Mek Gunz killed Chaos Decimator
-Left Tanks killed 1st Noise Marines
+Grot Tanks killed 1st Noise Marines
 Killa Kans killed Sorcerer
 Grot Mega-Tank killed 2nd Noise Marines
 
@@ -44,14 +44,14 @@ rending lictor killed dark disciples
 ~
 4th squad killed hormagaunts, tyranid warriors, zoanthropes 
 dark priest killed rending lictor, death lictor
-rhino killed biovores
+helbrute killed biovores
 
 SPACE WOLVES LOST ATTACKING CATACHAN
 +1 Marked for Greatness
 SW: Assassinate 
 CAT: Slay the King
 Blood Claws killed 1st squad 
-assault intercessros killed crusaders & 4th squad 
+assault intercessors killed crusaders & 4th squad 
 dreadnaught killed hellhound
 ~
 hellhound killed blood claws 
@@ -81,3 +81,38 @@ Terminators killed Crusaders, 3rd Cat & Warlord Commander
 Exalted Sorcerer Warlord killed Astropath, 4th Cat & Ministorium Priest 
 1st Sons killed Commander & Hellhound 
 2nd Sons killed Heavy Bolters
+
+THOUSAND SONS WON ATTACKING CATACHAN 
++1 Battle Trait
+TS: Assassinate 
+CAT: Assassinate 
+2nd Sons killed 1st Squad, Commander, & Heavy Bolters 
+Terminators killed 2nd Squad & Crusaders 
+3rd Sons killed 3rd Squad & 4th Squad 
+1st Sons killed Ministorium Priest & Astropath
+
+Ex Sorc killed Warlord Commander
+
+55th KAPPIC LOST ATTACKING HARLEQUINS
++1 RP 
+HQ: Priority Target 
+55th: Assassins 
+2nd Taurox Prime killed Solitaire
+1st Taurox Prime killed Shadowseer 
+Meltasquad killed Starweaver 
+~
+Center Troupe killed 1st Taurox Prime 
+Skyweavers killed 2nd Taurox Prime & Tempestus Prime 
+Troupe Master killed Meltasquad
+Right Troupe killed Hotshot Squad 
+Left Troupe killed Plasma Squad 
+
+HARLEQUINS WON ATTACKING EMPERORS CHILDREN 
++1 Battle Trait 
+HQ: Slay the King
+EC: Assassinate 
+Skyweavers killed Chaos Decimator 
+Right Troupe killed 1st Noise Marines & Sorcerer (ranged)
+Solitaire killed 2nd Noise Marines 
+~
+Obliterators killed Left Troupe & Center Troupe

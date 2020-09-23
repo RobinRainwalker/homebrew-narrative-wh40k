@@ -1,19 +1,18 @@
 # Slaanesh Chaos Decimator
 
 # Name: 
-# Crusade Points:
-# Role:
-# Keywords:
-# Equipment:
-# Psychic Power:
+# Crusade Points: 0
+# Role: Elite
+# Keywords: Vehicle
+# Equipment: Soulburner Petard
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 0
+# Battles Played: 2
 # Battles Survived: 0
-# Experience:
-# Marked for Greatness:
+# Experience: 5
+# Marked for Greatness: 1
 # Enemy Units Destroyed: 0  
   * Destroyed with Psychic Powers: 0 
   * Destroyed with Ranged Weapons: 0 

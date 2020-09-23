@@ -3,20 +3,22 @@
 # Name: 
 # Role: Troop
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Boneswords, Death Spitter
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 4
 # Battles Survived: 0
-# Experience: 1
+# Experience: 4
 # Marked for Greatness: 
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Enemy Units Destroyed: 1 
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 1 
+  * Destroyed with Melee Weapons: 0
+# Units Killed: 
+    * VS World Eaters: 3rd Squad
+# Agendas Achieved:
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
 

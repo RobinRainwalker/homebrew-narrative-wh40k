@@ -3,20 +3,20 @@
 # Name: 
 # Role: Elite
 # Keywords: Psyker, Character, Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Telepathica Staff
+# Psychic Power: Psychic Barrier, Weak Smite
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 4
 # Battles Survived: 0
-# Experience: 1
+# Experience: 4
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 1 [This battle]:
+# Enemy Units Destroyed: 1
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 1
 # Units Killed: 
     * VS Blood Axes: 1st Kommando Squad
 # Agendas Achieved:

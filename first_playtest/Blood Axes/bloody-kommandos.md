@@ -1,27 +1,27 @@
 # Bloody Kommandos
 
-# Name: 
-# Crusade Points: 1
+# Name: Bloody Kommandos
+# Crusade Points: 2
 # Role: Elite
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Power Klaw, Slugga, Choppa, Stikkbombs, Tankbusta Bomb
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 2
-# Battles Survived: 0
-# Experience: 9
+# Battles Played: 3
+# Battles Survived: 1
+# Experience: 10
 # Marked for Greatness: 
     * Gained Battle Honour from winning Assassinate match vs Catachan
-# Enemy Units Destroyed: [Total]:5  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 5 [This battle]:
+# Enemy Units Destroyed: 6
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 6
 # Units Killed: 
     * VS Space Wolves: Rune Priest, Blood Claws
     * VS Catachan: Crusaders, Ministorium Priest, Warlord Commander
+    * VS Space Wolves: Long Fangs
 # Agendas Achieved:
     * Slay the King: VS Space Wolves: Killed Rune Priest
     * Assassins: VS Catachan: Killed Ministorium Priest, Warlord Commander

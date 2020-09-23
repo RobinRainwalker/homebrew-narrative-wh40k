@@ -2,17 +2,16 @@
 
 # Name: 
 # Crusade Points:
-# Role:
-# Keywords:
-# Equipment:
-# Psychic Power:
+# Role: Transport
+# Keywords: Vehicle
+# Equipment: Shuriken Cannon
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 0
-# Battles Survived: 0
-# Experience:
+# Battles Played: 2
+# Battles Survived: 1
+# Experience: 2
 # Marked for Greatness:
 # Enemy Units Destroyed: 0  
   * Destroyed with Psychic Powers: 0 

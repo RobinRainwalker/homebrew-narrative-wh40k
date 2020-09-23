@@ -8,17 +8,17 @@
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 
+# Battles Played: 1
 # Battles Survived: 0
-# Experience: 
+# Experience: 1
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0 
-# Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0
+# Enemy Units Destroyed: 1
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 1
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
+    * VS Harlequins: Solitaire
 # Agendas Achieved:
-
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
 
 # Battle Honours: 

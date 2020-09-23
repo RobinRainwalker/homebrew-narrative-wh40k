@@ -3,25 +3,26 @@
 # Name: 
 # Role: HQ
 # Keywords: Warlord, Infantry, Character
-# Equipment:
-# Psychic Power:
+# Equipment: Powerfist, Plasma Pistol, Frag Grenades
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 4
 # Battles Survived: 0
-# Experience: 1
-# Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Experience: 7
+# Marked for Greatness: 1
+# Enemy Units Destroyed: 1
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 1
 # Units Killed: 
+  * VS Space Wolves: killed Assault Intercessors
 # Agendas Achieved:
 
 
-# Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
+# Rank: Battle Ready [] Blooded [x] Battle-Hardened [] Heroic [] Legendary []
 
 # Battle Honours: 
+    * Heroic Constitution: +1W
 # Battle Scars:

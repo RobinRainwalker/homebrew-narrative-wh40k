@@ -8,9 +8,9 @@
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1 
-# Battles Survived: 0
-# Experience: 3
+# Battles Played: 3
+# Battles Survived: 1
+# Experience: 5
 # Marked for Greatness:
 # Enemy Units Destroyed: 0  
   * Destroyed with Psychic Powers: 0 
@@ -18,6 +18,7 @@
   * Destroyed with Melee Weapons: 1
 # Units Killed: 
     * VS Thousand Sons: Exalted Sorcerer
+    * VS 55th Kappic: Plasma Squad
 # Agendas Achieved:
     * VS Thousand Sons: Assassins: Killed Exalted Sorcerer
 

@@ -3,22 +3,22 @@
 # Name: 
 # Role: Heavy Support
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Heavy Bolter, Boltgun, Boltpistol, Power Axe
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 3
 # Battles Survived: 0
-# Experience: 1
+# Experience: 3
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Enemy Units Destroyed: 0  
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
 # Agendas Achieved:
+
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
 

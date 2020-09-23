@@ -1,27 +1,30 @@
 # Second Khorne Bezerkers
 
 # Name: 
-# Role:
-# Keywords:
-# Equipment:
-# Psychic Power:
+# Role: Troop
+# Keywords: Infantry
+# Equipment: Chainsword, Chainaxe, Power Axe
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 3
 # Battles Survived: 1
-# Experience: 4
+# Experience: 7
 # Marked for Greatness: 1
-# Enemy Units Destroyed: [Total]:2  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 2 [This battle]:
-    * Killed 1 unit of Pteraxi Skystalkers
-    * Killed 1 unit of Skitarii Vanguard
+# Enemy Units Destroyed: 3
+  * Destroyed with Psychic Powers: 0
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 3
+# Units Killed: 
+   * VS Rad Mech: Pteraxi Skystalkers, Skitarii Vanguard
+   * VS Jormungander: Biovores
+# Agendas Achieved:
 
-# Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
-
+# Rank: Battle Ready [] Blooded [x] Battle-Hardened [] Heroic [] Legendary []
 
 # Battle Honours: 
+    * Upgraded Power Axe 
+      * Razor Edged: Improve the AP by 1
+      * Brutal: Add 1 Strength
 # Battle Scars:

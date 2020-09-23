@@ -3,23 +3,24 @@
 # Name: 
 # Role: Troops
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Bolt Pistol, Chainsword, Power Axe, Storm Shield, Thunder Hammer
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 3
 # Battles Survived: 0
-# Experience: 1
+# Experience: 3
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:1  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:1  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Enemy Units Destroyed: 2
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 1 
+  * Destroyed with Melee Weapons: 1
 # Units Killed: 
-    * VS Blood Axes: Burna Bois
+    * VS Catachan: 1st Squad
+    *     * VS Blood Axes: Burna Bois
 # Agendas Achieved:
+
 
 # Rank: Battle Ready [x] Blooded [] Battle-Hardened [] Heroic [] Legendary []
 

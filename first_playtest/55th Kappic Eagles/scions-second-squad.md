@@ -1,25 +1,25 @@
 # Scions Second Squad
 # Crusade Points: 1
 
-# Name: 
+# Name: Melta Squad
 # Role: Troop
 # Keywords: Infantry
 # Equipment: Hotshot Lasgun, Melta Gun, Vox-caster, Chainsword, Hotshot Laspistol, Frag & Krak Grenades
-# Psychic Power:
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 2
 # Battles Survived: 0
-# Experience: 6
+# Experience: 7
 # Marked for Greatness:
-# Enemy Units Destroyed:  
-# Enemy Units Destroyed with Psychic Powers:  
-# Enemy Units Destroyed with Ranged Weapons: 3 
-# Enemy Units Destroyed with Melee Weapons:  
+# Enemy Units Destroyed: 4
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 4
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
     * VS Thousand Sons: 1st 1kSons Squad, Exalted Sorcerer, Exalted Sorcerer Commander
+    * VS Harlequins: Starweaver
 # Agendas Achieved:
     * VS Thousand Sons: Assassins: Killed Exalted Sorcerer, Exalted Sorcerer Commander
 

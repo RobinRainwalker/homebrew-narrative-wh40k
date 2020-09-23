@@ -1,22 +1,21 @@
 # Burna Bois
 
-# Name: 
+# Name: Burna Boies
 # Role: Elite
 # Keywords: Infantry
-# Equipment:
-# Psychic Power:
+# Equipment: Killsaw, Burnas, Stikkbomb
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 2
+# Battles Played: 3
 # Battles Survived: 1
-# Experience: 4
+# Experience: 5
 # Marked for Greatness:
-# Enemy Units Destroyed: [Total]:0 
-# Enemy Units Destroyed with Psychic Powers: [Total]:0 
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0 
-# Enemy Units Destroyed with Melee Weapons: [Total]: 2
+# Enemy Units Destroyed: 2
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 2
 # Units Killed: 
     * VS Catachan: 2nd Infantry, Astropath
 # Agendas Achieved:

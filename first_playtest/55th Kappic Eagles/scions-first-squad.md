@@ -1,22 +1,21 @@
 # Scions First Squad
 
-# Name: 
+# Name: Hotshot Squad
 # Role: Troop
 # Keywords: Infantry
 # Equipment: Hotshot Lasgun, Hot-shot Volley Gun, Vox-caster, Chainsword, Hotshot Laspistol, Frag & Krak Grenades
-# Psychic Power:
 # Warlord Traits:
 # Relics:
 # Other Upgrades:
 
-# Battles Played: 1
+# Battles Played: 2
 # Battles Survived: 0
-# Experience: 4
+# Experience: 5
 # Marked for Greatness: 1
-# Enemy Units Destroyed: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Psychic Powers: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Ranged Weapons: [Total]:0  [This battle]:
-# Enemy Units Destroyed with Melee Weapons: [Total]: 0 [This battle]:
+# Enemy Units Destroyed: 0  
+  * Destroyed with Psychic Powers: 0 
+  * Destroyed with Ranged Weapons: 0 
+  * Destroyed with Melee Weapons: 0
 # Units Killed: 
 # Agendas Achieved:
 
