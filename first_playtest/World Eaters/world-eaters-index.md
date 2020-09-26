@@ -3,10 +3,11 @@ Corpse Farm: 10 coin: 85 for Relic
 Narco Den: 6d6 coin
 Generatorium: 0 coin: 60 coin for Specialist Reinforcements
 Slums: 10 coin: for Warlord Trait
+Gambling Den: 6d6 coin
 
-# Coin: 60
+# Coin: 128
 
-# Crusade Points: 3
+# Crusade Points: 7 
 1 First Khorne Bezerkers 
 1 Second Khorne Bezerkers 
 1 Fourth Khorne Bezerkers 
